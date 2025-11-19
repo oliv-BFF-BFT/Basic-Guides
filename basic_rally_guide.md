@@ -64,3 +64,6 @@ Let's add all these things together:
 |Arc. Lethality |  164.6%           |                    |164.6%    |
 
 Note that the last column matches the squad bonus. Obs: the squad stats in the bonus overview and in the squad bonus are different by 2%. This is because I have a Helga Bonus which adds 2% to attack and defense even in her absence.
+
+
+TO BE CONTINUED
