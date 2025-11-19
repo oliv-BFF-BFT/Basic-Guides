@@ -19,7 +19,7 @@ I started a rally to show how you can check exactly which stats and skills will 
 </td><td> <div style="display: flex; align-items: center;">
   <img src="images_rally_guide/hero_skills_filled.PNG" width="1000" />
 </td></tr>
-<td colspan="2">Here, the rally was still empty. The stats in the "squad bonus" accounts for all my governor gear, research, etc. It also includes stats boosts from the heroes I sent, and the skills being applied. </td><td colspan="2">Here, people started to join the rally. Note that the "squad bonus" is exactly the same as before (and this is what we mean when we say that "the joiners will use the stats from the captain"). The only difference is the 4 joiner skills being applied. </td>
+<td colspan="2">Here, the rally was still empty. The stats in the "squad bonus" accounts for all my governor gear, research, etc. It also includes stats boosts from the heroes I sent. You can also check the information about my heroes' skills that are being applied. </td><td colspan="2">Here, people started to join the rally. Note that the "squad bonus" is exactly the same as before (and this is what we mean when we say that "the joiners will use the stats from the captain"). The only difference is the 4 joiner skills that were added. </td>
 </table>
 
 ## What exactly is the squad bonus 
