@@ -1,4 +1,4 @@
-# Basic Rally Guide
+# Basic Rally Guide - THIS IS NOT DONE YET!
 
 I started a rally to show how you can check exactly which stats and skills will be used in it.
 
@@ -8,7 +8,6 @@ I started a rally to show how you can check exactly which stats and skills will 
 </td><td><p>The rally is still empty, so only my stats and heroes and being used. If you click in the flag in the figure, a different window will open with the rally details. Below there are screeshots of the parts you should check. On the left, you can see the stats that were applied when the rally was still empty; on the right there are screenshots of the same information, but after other peopled joined. </p>
 </td></tr>
 </table>
-
 
 <table>
   <tr><td> <div style="display: flex; align-items: center;">
@@ -37,8 +36,6 @@ The squad bonus includes the stats from the "bonus overview", the Expedition sta
   <img src="images_rally_guide/base_stats.PNG" width="1000" />
 </td></tr>
 </table>
-
-
 
 <table>
   <tr><td> <div style="display: flex; align-items: center;">
